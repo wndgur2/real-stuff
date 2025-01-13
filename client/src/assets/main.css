@@ -1,0 +1,32 @@
+@import './base.css';
+
+a {
+  text-decoration: none;
+  color: var(--vt-c-text-light-1);
+  padding: 0.4em 0.8em;
+  transition: background-color 0.2s;
+  border-radius: 12px;
+}
+
+a:hover {
+  /* background-color: var(--color-hover); */
+}
+
+.logo {
+  font-family: "IBM Plex Sans KR", sans-serif;
+  font-weight: bold !important;
+}
+
+hr {
+  color: var(--vt-c-divider-light-3);
+}
+
+.no-break {
+  word-break: keep-all !important;
+  white-space: nowrap !important;
+}
+
+h1,
+h2 {
+  font-family: "IBM Plex Sans KR", sans-serif;
+}

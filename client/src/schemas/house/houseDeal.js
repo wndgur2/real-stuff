@@ -1,0 +1,23 @@
+export default {
+  id: 1,
+  houseDealType: '매매',
+  area: '84.98',
+  phone: '02-2051-1234',
+  date: '2021-10-01',
+  floor: 10,
+  price: 1000000,
+  likedN: 5,
+  liked: false,
+  houseInfo: {
+    id: 1,
+    name: '테헤란 아이파크',
+    dongName: '서초동',
+    address: '서울특별시 강남구 테헤란로 311',
+    houseType: '아파트',
+    date: '2021-10-01',
+    dong: 3,
+    floor: 10,
+    commentN: 3,
+    liked: false,
+  },
+}

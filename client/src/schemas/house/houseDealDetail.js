@@ -1,0 +1,15 @@
+export default {
+  dealId: 1,
+  memberId: 2,
+  agentNickName: 'Agent1',
+  countLike: 3,
+  likeStatus: true,
+  exclusiveArea: 85,
+  floor: 5,
+  deposit: 500000,
+  price: 350000000,
+  status: 'COMPLETED',
+  type: 'SALE',
+  dealDate: '2024-11-24T10:00:00Z',
+  imageUrl: ['/src/assets/images/no_image.svg', '/src/assets/images/no_image.svg'],
+}

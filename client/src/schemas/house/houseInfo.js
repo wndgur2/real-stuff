@@ -1,0 +1,15 @@
+export default {
+  id: 1,
+  name: '테헤란 아이파크',
+  dongName: '서초동',
+  address: '서울특별시 강남구 테헤란로 311',
+  houseType: '아파트',
+  houseDealType: '매매',
+  date: '2021-10-01',
+  dong: 3,
+  floor: 10,
+  commentN: 3,
+  liked: false,
+  price: 1000000,
+  area: 84.5,
+}
